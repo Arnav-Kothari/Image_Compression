@@ -1,0 +1,86 @@
+[
+  {
+      "Name": "Mike Smith",
+      "Location": "CA",
+      "Cohort": "CA 2019",
+      "Builder": true,
+      "LinkedIn": "Mike Smith"
+  },
+  {
+      "Name": "Susan Q",
+      "Location": "NY",
+      "Cohort": "AZ 2017",
+      "Builder": false,
+      "LinkedIn": "Susan Q"
+  },
+  {
+      "Name": "John Doe",
+      "Location": "CA",
+      "Cohort": "CA 2019",
+      "Builder": true,
+      "LinkedIn": "John Doe"
+  },
+  {
+      "Name": "Eric DeBar",
+      "Location": "NY",
+      "Cohort": "CA 2019",
+      "Builder": false,
+      "LinkedIn": "Eric DeBar" 
+  },
+  {
+      "Name": "Nate A",
+      "Location": "IN",
+      "Cohort": "AZ 2017",
+      "Builder": true,
+      "LinkedIn": "Nate A"
+  },
+  {
+      "Name": "Byron Z",
+      "Location": "VT",
+      "Cohort": "AZ 2018",
+      "Builder": false,
+      "LinkedIn": "Byron Z"
+  },
+  {
+      "Name": "Bowen H",
+      "Location": "VT",
+      "Cohort": "AZ 2018",
+      "Builder": true,
+      "LinkedIn": "Bowen H"
+  },
+  {
+      "Name": "Rebeca B",
+      "Location": "AL",
+      "Cohort": "CT 2018",
+      "Builder": false,
+      "LinkedIn": "Rebeca B"
+  },
+  {
+      "Name": "Harley Quinn",
+      "Location": "FL",
+      "Cohort": "CT 2018",
+      "Builder": true,
+      "LinkedIn": "Harley Quinn"
+  },
+  {
+      "Name": "Sam O",
+      "Location": "AK",
+      "Cohort": "CT 2018",
+      "Builder": false,
+      "LinkedIn": "Same O"
+  },
+  {
+      "Name": "Bob B",
+      "Location": "CO",
+      "Cohort": "CO 2018",
+      "Builder": true,
+      "LinkedIn": "Bob B"
+  },
+  {
+      "Name": "Shirley W",
+      "Location": "MS",
+      "Cohort": "CO 2018",
+      "Builder": false,
+      "LinkedIn": "Shirley W"
+  }  
+]
